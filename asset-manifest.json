@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MoviesNoxes/static/css/main.92c4d5a0.css",
+    "main.js": "/MoviesNoxes/static/js/main.2098b850.js",
+    "static/js/787.5d5ea81f.chunk.js": "/MoviesNoxes/static/js/787.5d5ea81f.chunk.js",
+    "index.html": "/MoviesNoxes/index.html",
+    "main.92c4d5a0.css.map": "/MoviesNoxes/static/css/main.92c4d5a0.css.map",
+    "main.2098b850.js.map": "/MoviesNoxes/static/js/main.2098b850.js.map",
+    "787.5d5ea81f.chunk.js.map": "/MoviesNoxes/static/js/787.5d5ea81f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92c4d5a0.css",
+    "static/js/main.2098b850.js"
+  ]
+}
